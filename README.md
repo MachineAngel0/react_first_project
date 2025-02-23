@@ -1,8 +1,12 @@
-# React + Vite
+# First React/Java Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my first attempt at anything webdev related. 
+I have experience in primarly c++ with OpenGL and game dev with Unreal Engine
+I've also made a few python scripts to speed up my personal workflows.
 
-Currently, two official plugins are available:
+Overall, there were alot of concepts that were very new to me, 
+as this web dev project dealt with a lot of API and networking concepts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project has made me really appreciate what goes on within web development and what it takes to get 
+something up and running
+
